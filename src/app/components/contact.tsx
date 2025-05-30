@@ -26,19 +26,19 @@ export default function Contact() {
     {
       icon: Mail,
       title: "Email",
-      value: "contato@creativehub.com",
+      value: "carolbezerra.contato@gmail.com",
       color: "from-purple-500 to-purple-600",
     },
     {
       icon: Phone,
       title: "Telefone",
-      value: "+55 (11) 99999-9999",
+      value: "+55 (11) 91136-6940",
       color: "from-pink-500 to-pink-600",
     },
     {
       icon: MapPin,
       title: "Localização",
-      value: "São Paulo, SP",
+      value: "Fortaleza, CE, Brasil",
       color: "from-orange-500 to-orange-600",
     },
   ]
